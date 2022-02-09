@@ -1,0 +1,25 @@
+#tit{display: flex;
+justify-content: center;
+color: brown;}
+.tit2{
+    display:flex;
+
+    margin-left: 42%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.tit4{display: flex;
+    margin-left: 42%;
+    margin-bottom: 10px;
+    border-radius: 10px;}
+
+    .tit5{display: flex;
+        margin-left: 40%;
+        margin-bottom: 10px;
+        border-radius: 10px;}
+        .titlered{display: flex;
+            justify-content: center;
+            color: brown;
+
+        }
+        body{background-color:cadetblue;}
